@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Task2KtTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-03-21T16:58:07" hostname="DESKTOP-6O5O3K2" time="0.013">
+<testsuite name="Task2KtTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-03-21T20:09:27" hostname="DESKTOP-6O5O3K2" time="0.013">
   <properties/>
-  <testcase name="calculateComissionMastercardAndMaestroTestFreeLimitEnded" classname="Task2KtTest" time="0.005"/>
+  <testcase name="calculateComissionMastercardAndMaestroTestFreeLimitEnded" classname="Task2KtTest" time="0.004"/>
   <testcase name="calculateComissionVisaAndMirTest" classname="Task2KtTest" time="0.0"/>
   <testcase name="calculateComissionMastercardAndMaestroTestFreeLimitPartEnded" classname="Task2KtTest" time="0.0"/>
-  <testcase name="printComissionTestVkPay" classname="Task2KtTest" time="0.007"/>
+  <testcase name="mainTest" classname="Task2KtTest" time="0.008"/>
+  <testcase name="printComissionTestVkPay" classname="Task2KtTest" time="0.001"/>
   <testcase name="calculateComissionMastercardAndMaestroTestFreeLimitNotEnded" classname="Task2KtTest" time="0.0"/>
   <testcase name="printComissionTestMastercardOrMaestro" classname="Task2KtTest" time="0.0"/>
-  <testcase name="printComissionTestVisaOrMir" classname="Task2KtTest" time="0.001"/>
-  <system-out><![CDATA[При переводе 1000 руб. коммисия соствит 0.0 руб
+  <testcase name="printComissionTestVisaOrMir" classname="Task2KtTest" time="0.0"/>
+  <system-out><![CDATA[При переводе 1000 руб. коммисия соствит 26.0 руб
+При переводе 1000 руб. коммисия соствит 0.0 руб
 При переводе 1000 руб. коммисия соствит 26.0 руб
 При переводе 1000 руб. коммисия соствит 42.5 руб
 ]]></system-out>

@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6941e3a8-d184-4ee8-a154-f346259de666" name="Default Changelist" comment="ДЗ к занятию 2.1. Задача №1 - Максимальное покрытие" />
+    <list default="true" id="6941e3a8-d184-4ee8-a154-f346259de666" name="Default Changelist" comment="ДЗ к занятию 2.1. Задача №2 - CI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jacoco/test.exec" beforeDir="false" afterPath="$PROJECT_DIR$/build/jacoco/test.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/Task2.kt.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/Task2.kt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/Task2Kt.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/Task2Kt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/default/index.source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Task2KtTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/Task2KtTest.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,8 +222,8 @@
       <list>
         <item itemvalue="Gradle.JustApp [jacocoTestReport]" />
         <item itemvalue="Gradle.JustApp [jacocoTestCoverageVerification]" />
-        <item itemvalue="Gradle.JustApp [check]" />
         <item itemvalue="Gradle.JustApp [test]" />
+        <item itemvalue="Gradle.JustApp [check]" />
         <item itemvalue="Gradle.Task2KtTest" />
       </list>
     </recent_temporary>
@@ -248,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616347915295</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ДЗ к занятию 2.1. Задача №2 - CI">
+      <created>1616348488258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616348488258</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +296,7 @@
     <MESSAGE value="Подготовил код по двум задачам" />
     <MESSAGE value="ДЗ к занятию 2.1. Задача №1 - Максимальное покрытие" />
     <MESSAGE value="Revert &quot;Create gradle.yml&quot;&#10;&#10;This reverts commit 091caf91" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Create gradle.yml&quot;&#10;&#10;This reverts commit 091caf91" />
+    <MESSAGE value="ДЗ к занятию 2.1. Задача №2 - CI" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ к занятию 2.1. Задача №2 - CI" />
   </component>
 </project>

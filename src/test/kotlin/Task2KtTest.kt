@@ -39,7 +39,7 @@ class Task2KtTest {
         val totalCurrentTransfers = 1000 * moneyCoefficient
 
         val result = calculateComissionMastercardAndMaestro(amountPreviousTransfers, totalCurrentTransfers)
-        assertEquals(40.0, result, 0.0000) //Внес изменения для задачи 2
+        assertEquals(23.0, result, 0.0000)
     }
 
     @Test
@@ -70,5 +70,10 @@ class Task2KtTest {
         val totalCurrentTransfers = 100_000
 
         val result = printComission(typeCard, amountPreviousTransfers, totalCurrentTransfers)
+    }
+
+    @Test
+    fun mainTest(){
+        main()
     }
 }
