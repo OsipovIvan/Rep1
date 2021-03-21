@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\Kotlin\Lesson_2\JustApp\build\classes\kotlin\main\Task2Kt$WhenMappings.class;C:\Users\Admin\Desktop\Kotlin\Lesson_2\JustApp\build\classes\kotlin\main\Task2Kt.class;C:\Users\Admin\Desktop\Kotlin\Lesson_2\JustApp\build\classes\kotlin\main\TypeCard.class
